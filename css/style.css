@@ -1,0 +1,43 @@
+/*body {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}*/
+
+.label{
+  color:black;
+}
+		
+
+
+.container{
+width:100%;
+
+}
+
+
+
+.table td{
+    border-top: 0px solid #eceeef;
+}
+
+#headMain {
+ position:relative;
+ /*   width:100px;
+ height:100px;
+    top:50px;
+    left:0px;*/
+
+    
+}
+
+#thead{
+    /*position:fixed;*/
+  /*  width:100px;
+    height:100px;
+    background-color:blue;
+    margin-top:20px;
+    margin-left:400px;*/
+}
+
+
+
